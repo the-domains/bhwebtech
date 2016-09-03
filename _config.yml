@@ -1,19 +1,4 @@
-name: bhwebtech
-favicon: null
-layout_spectrum: 0.92396
 typography_spectrum: 0.9515546741895378
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#B8B42D'
@@ -25,4 +10,20 @@ color:
   lightness: 0.8144698988180608
   saturation: 0.009866912150755525
   rhythmicContrast: 0.34731451026163995
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.92396
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: bhwebtech
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: Bringing Web Tech & Entrepreneurs together
 purpose: []
