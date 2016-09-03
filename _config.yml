@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: About
+    id: c099f30e-ec09-4a37-a611-56c4dbb6e0ce
+    type: content
 favicon: null
 description: Bringing Web Tech & Entrepreneurs together
 purpose: []
